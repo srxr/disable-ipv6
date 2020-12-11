@@ -1,0 +1,6 @@
+id=disable-ipv6
+name=Disable IPv6
+version=dev
+versionCode=100
+author=somebody
+description=A magisk module to disable IPv6 on boot.
